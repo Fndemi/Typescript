@@ -103,15 +103,6 @@ notSure = 'maybe a string instead'
 notSure = false;
 
 
-
-
-
-
-
-
-
-
-
 let name:string = 'Hello Florence';
 name = name.toUpperCase();
 let age:number = 25;
